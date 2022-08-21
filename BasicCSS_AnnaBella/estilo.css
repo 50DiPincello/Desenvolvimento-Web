@@ -1,0 +1,37 @@
+#fundo {
+	background-image: url('imagens2/fundo.png');
+	font:  16px Arial, Helvetica, sans-serif;
+}
+
+#caixa {
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 10px;
+	color: #34344E;
+
+
+}
+
+#sobre {
+	background-color: white;
+	width: 900px;
+}
+
+h3{
+	color: #4D4B4D;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+
+#direitos {
+	font-weight: bold;
+	text-align: center;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+
+a{
+	text-decoration: none;
+	padding: 5px;
+}
+
+.img-campanha {
+	border: 10px solid #c3c3ae;
+}
